@@ -64,7 +64,7 @@ Anna Clarke: <anclarkie@gmail.com>
 🍃 Melissa Schatz-Miller: <melissa.scmi@gmail.com>    
 Diego Serafico: <dseraficohernandez@gmail.com> 🍃
 
-#### Notes/Credits
+### Notes/Credits
 Thanks to https://github.com/gwannon/Survival-horror-theme-css for bloody text styling
 
 
