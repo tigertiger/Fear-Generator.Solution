@@ -51,6 +51,9 @@ This web application will allow users to create horror subgenres to organize the
 * _enter command $ dotnet run, to view program in your browser_
 * _follow instructions on the website and have a spooky time!_
 
+## Notes/Credits
+Thanks to [@Gwannon on Github](https://github.com/gwannon/Survival-horror-theme-css) for bloody text styling  
+
 ## Known Bugs
 
 * _Delete functionality coming soon!_
